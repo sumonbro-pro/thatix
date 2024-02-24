@@ -1,0 +1,23 @@
+#hero {
+    background-image: url("../../assets/page-title.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#searchBar {
+    background-color: whitesmoke;
+    color: #9ca3af;
+    width: 50vw;
+}
+
+#headingSearchBar h1 {
+    color: white;
+}
+.modal-box {
+    max-width: 60vw !important;
+}
+#bottomToTop {
+    background: #4A00FF;
+    cursor: pointer;
+}
